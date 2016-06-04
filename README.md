@@ -1,2 +1,2 @@
-# ids
+# CORE-BASE
 a core id structure
